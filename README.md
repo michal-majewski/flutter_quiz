@@ -1,16 +1,12 @@
-# adv_basics
+# flutter_quiz
 
-A new Flutter project.
+A basic quiz about the Flutter, composed of 3 screens:
 
-## Getting Started
+![](https://github.com/michal-majewski/flutter_quiz/assets/71565521/571fae98-515a-44be-95a1-f517c96ed23e)
+![image](https://github.com/michal-majewski/flutter_quiz/assets/71565521/81add4fa-ae5c-4567-a133-97acb5a03420)
+![image](https://github.com/michal-majewski/flutter_quiz/assets/71565521/7c7bef24-8134-4004-8eba-87a8230bbe3c)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Source code
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The source code can be found in the [lib directory](./lib)
