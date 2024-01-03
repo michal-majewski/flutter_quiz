@@ -1,5 +1,6 @@
-import 'package:adv_basics/styled_text.dart';
 import 'package:flutter/material.dart';
+
+import '../component/styled_text.dart';
 
 class StartScreen extends StatelessWidget {
   const StartScreen(this.onPressed, {super.key});

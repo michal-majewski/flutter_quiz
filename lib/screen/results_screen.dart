@@ -1,8 +1,9 @@
-import 'package:adv_basics/answer_button.dart';
+import 'package:adv_basics/component/answer_button.dart';
 import 'package:adv_basics/data/questions.dart';
 import 'package:adv_basics/questions_summary/questions_summary.dart';
-import 'package:adv_basics/styled_text.dart';
 import 'package:flutter/material.dart';
+
+import '../component/styled_text.dart';
 
 class ResultsScreen extends StatelessWidget {
   const ResultsScreen({
